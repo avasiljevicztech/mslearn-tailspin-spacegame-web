@@ -1,4 +1,6 @@
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Aleks-space-game-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=Aleks-space-game-web)
+
 [![Build Status](https://dev.azure.com/aleksandarvasiljevic0585/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/aleksandarvasiljevic0585/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
