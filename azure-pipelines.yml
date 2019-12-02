@@ -51,7 +51,7 @@ steps:
 - task: SonarCloudPrepare@1
   displayName: 'Prepare SonarCloud analysis'
   inputs:
-    SonarCloud: 'SonarCloud connection 1'
+    SonarCloud: 'MojSonarCloud'
     organization: '$(SonarOrganization)'
     projectKey: '$(SonarProjectKey)'
     projectName: '$(SonarProjectName)'
